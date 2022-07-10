@@ -1,7 +1,11 @@
-Useful Swift Packages
-=====================
+iOS Development Resources
+=========================
+Apple Resources
+---------------
 [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/)
 
+Packages
+--------
 [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 
 [Swift Package Index](https://swiftpackageindex.com/)
@@ -44,3 +48,7 @@ Useful Swift Packages
 * [SDWebImage](https://github.com/SDWebImage/SDWebImage) : Asynchronous image downloader with cache support with an UIImageView category
 * [SnapKit](https://github.com/SnapKit/SnapKit) : SnapKit is a DSL to make Auto Layout easy on both iOS and OS X
 * [Charts](https://github.com/danielgindi/Charts) : ios-charts is a powerful & easy to use chart library for iOS
+
+Gitignore
+---------
+[gitignore](https://www.toptal.com/developers/gitignore/)
