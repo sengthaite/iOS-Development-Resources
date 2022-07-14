@@ -47,7 +47,10 @@ Packages
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) : Reinventing the way ImagePicker works
 * [SDWebImage](https://github.com/SDWebImage/SDWebImage) : Asynchronous image downloader with cache support with an UIImageView category
 * [SnapKit](https://github.com/SnapKit/SnapKit) : SnapKit is a DSL to make Auto Layout easy on both iOS and OS X
-* [Charts](https://github.com/danielgindi/Charts) : ios-charts is a powerful & easy to use chart library for iOS
+* [Charts](https://github.com/danielgindi/Charts) : iOS-charts is a powerful & easy to use chart library for iOS
+* [Eureka](https://github.com/xmartlabs/Eureka) : Dynamic table view form
+* [JSONRPC](https://github.com/ChimeHQ/JSONRPC) : A simple Swift library for JSON-RPC
+* [Swift-BigInt](https://github.com/mkrd/Swift-BigInt) : A lightweight, and easy-to-use, arbitrary precision arithmetric library for Swift 5
 
 Gitignore
 ---------
